@@ -16,4 +16,5 @@ The Eye movement exercise is a great demonstration of how you can implement mini
 - Add a tutorial page (shows exact steps to create the site)
 - Add other facial features such as *Eyebrows, nose, etc.* 
 
+# [LICENSE](https://github.com/abdulfadel/eyemovement/blob/master/LICENSE)
 ![image](https://user-images.githubusercontent.com/92131037/170177175-391f19c9-6e31-473b-90d2-6587fb941b22.png)
